@@ -12,4 +12,4 @@ Buscar dentro do arquivo settings.py do django as informações da sua conexão 
 
 
 ---
-⌨️ com ❤️ por mim e @Hora-keven 😊
+⌨️ com ❤️ por mim e [@Hora-Keven](https://github.com/Hora-Keven) 😊
