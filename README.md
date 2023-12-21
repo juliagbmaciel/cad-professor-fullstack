@@ -1,6 +1,6 @@
 # Sistema simples para o cadastro de professores do senai
 
-Sistema criado a pedido do professor Lindomar.
+Sistema criado a pedido do professor [@lindomarbatistao](https://github.com/lindomarbatistao).
 
 ## 🚀 Começando
 
